@@ -27,7 +27,7 @@ GEMINI_API_KEY = "AIzaSyAYHyGSzffQaNodFdP5J6X_q3ndLugtWYM"
 # Forward targets
 PERSONAL_ACCOUNT_ID = 7206386327
 
-GROUP_ID = -5096149982
+GROUP_ID = -5079590488
 
 # --- Credit System Configuration (REMOVED) ---
 # تم حذف جميع متغيرات إعدادات الرصيد
